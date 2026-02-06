@@ -1,2 +1,4 @@
-Cameron Daw: https://github.com/dreynolds5/verschnaufpause_StoryTime/pull/2
+Cameron Daw: https://github.com/dreynolds5/verschnaufpause\_StoryTime/pull/2
+
+Tommy Trisko: https://github.com/DeDandeMan/316-Taktgeber-TeamExercise/pull/6
 
